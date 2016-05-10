@@ -1,0 +1,9 @@
+c:\users\lucas\documents\visual studio 2013\Projects\CarParts\CarParts\bin\Debug\CarParts.exe.config
+c:\users\lucas\documents\visual studio 2013\Projects\CarParts\CarParts\bin\Debug\CarParts.exe
+c:\users\lucas\documents\visual studio 2013\Projects\CarParts\CarParts\bin\Debug\CarParts.pdb
+c:\users\lucas\documents\visual studio 2013\Projects\CarParts\CarParts\obj\Debug\CarParts.csprojResolveAssemblyReference.cache
+c:\users\lucas\documents\visual studio 2013\Projects\CarParts\CarParts\obj\Debug\CarParts.Properties.Resources.resources
+c:\users\lucas\documents\visual studio 2013\Projects\CarParts\CarParts\obj\Debug\CarParts.csproj.GenerateResource.Cache
+c:\users\lucas\documents\visual studio 2013\Projects\CarParts\CarParts\obj\Debug\CarParts.exe
+c:\users\lucas\documents\visual studio 2013\Projects\CarParts\CarParts\obj\Debug\CarParts.pdb
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\CarParts\CarParts\obj\Debug\CarParts.frmCarParts.resources
